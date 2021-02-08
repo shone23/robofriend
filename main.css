@@ -13,4 +13,5 @@ h2 {
 }
 div {
   background: navajowhite;
+  columns: 1;
 }
